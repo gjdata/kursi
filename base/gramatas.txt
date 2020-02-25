@@ -1,0 +1,75 @@
+autors;nosaukums;lappuses;temas
+Jānsone Tūve;Trollīša ziema;126;bērnu
+Einfelds Jānis;Palaidnis;391;romāns
+Makdonalda Fiona;Pasaules kultūra;255;enciklopēdija
+Nīmante Dita;Klasvadība;143;rokasgrāmata
+Ceriņa Brinda;Dūkuriņš un Dūculīte;16;dzeja,bērnu
+Evanss Nikolass;Ūdensšķirtne;389;romāns
+Lācis Vilis (1904-1966);Purvmale;219;romāns
+Sondersa Šermēna;Sieviete un stress;278;pašpalīdzība
+Tolstojs Aleksejs (1817-1875);Kņazs Serebrenijs;356;vēsturisks romāns
+Zihmanis Modris (1927-);Bandu bērns;276;vēsturisks romāns
+Žuravska Dzintra (1939-);Desmit pēdējās dienas;239;romāns
+Disnejs Volts;Lipīgās ķepas;24;pasakas
+Filipsa Sūzana Elizabete;Atelpa;412;romāns
+Kūntss Stīvens;Nodevējs;443;romāns
+Kurts-Mālere Hedviga;Dimanti un pērles;190;romāns
+Reinoldss Simons;Labāk nekā šokolāde;143;pašpalīdzība
+Robotems Maikls;Pazudušie;445;kriminālromāns
+Zandberga Zoja;Kailums;112;dzeja,pasakas
+Žuravska Dzintra;Uz baltās nebūtības sliekšņa;219;romāns
+Mērdoka Airisa (1919-1999);Savvaļas roze;319;romāns
+Tvinings Džeimss;Melnā saule;422;romāns
+Ustinova Tatjana (1968-);Nekrietno laiku hronika;327;vēsturisks romāns
+Ustinova Tatjana (1968-);Tuvie ļaudis;388;romāns
+Vaitvika Džeina;Angļu valoda;160;mācību
+Valdbergs Miks;Lidojošie ziedi;16;pasakas
+Vermeulens Niko;Derīgie augi;320;enciklopēdija
+Rubenis Andris;20. Gadsimta kultūra;456;mācību
+Bakingems Roiss Skots;Strupceļš;400;piedzīvojumu
+Frenča Nikija;Noslēpumainais smaids;216;trileris
+Goba Arturs;Pieneņu piens;24;dzeja,bērnu
+Ikere Ludmila;Vējš uzliesmo ceriņzarā;111;dzeja
+Paungere Johanna;Zaļojošs dārzs;344;rokasgrāmata
+Spaiera Kerola;Superstils;96;rokasgrāmata
+Stāraste Margarita;Zīļuks;32;pasakas
+Vermeilens Niko;Dārza puķes;320;enciklopēdija
+Voltersa Minete;Neprāta varā;372;kriminālromāns
+Apškrūma Kornēlija;Atnāc mani vēl satikt;199;dzeja
+Ērlihs Roberts;Deviņas trakas idejas zinātnē;287;populārzinātniska
+Freimane Ilze;Viršu medus;237;romāns
+Gulbe Zaiga;Divatā ar sevi;100;dzeja
+Kreile Silvija;Bioloģija;131;mācību
+Krieviņa Vita;Latvijas vēsture;191;mācību
+Sisnerosa Isabela;Spāņu valoda trīs mēnešos;254;mācību
+Krauksta Daina;Slēpošanas treniņa pamati;257;mācību
+Selindžers Bens;Cita ķīmija;517;populārzinātniska
+Šadovs Džeks;Izcilais spiegs;103;romāns
+Brauna Sandra;Strupceļš;230;kriminālromāns,trilleris
+Vasiļjeva Inese;Latviešu valoda;228;mācību
+Ķestere Iveta (1960-);Lietišķā etiķete;272;rokasgrāmata
+Konans Doils Arturs;Etīde purpura toņos;331;kriminālromāns
+Jansone Tūve;Komēta nāk;151;bērnu
+Bērdžess Entonijs;Mehāniskais apelsīns;138;romāns
+Bulgakovs Mihails;Meistars un Margarita;335;romāns
+Geidāne Milda;Negaisa laiks;191;romāns
+Geidāne Milda;Sili deg;191;vēsturisks romāns
+Jemeļjanovs Aleksandrs;Civilā aizsardzība;103;mācību
+Kristi Agata;Noslēpumainais misters Kīns;415;kriminālromāns
+Boitmane Ilze;Personāla atlase un novērtēšana;160;rokasgrāmata
+Potere Beatrise;Trusīša Pēterīša piedzīvojumi;93;pasakas
+Morāvija Alberto;Nicinājums;167;romāns
+O'Farela Megija;Mana mīlnieka mīļotā;261;romāns
+Ozolzīle Gunārs;Socioloģija;91;mācību
+Prusts Marsels;Svana pusē;348;romāns
+Rēvalds Vilnis;Fizikas un tehnikas vēstures stāsti;430;populārzinātniska
+Zvejnieks Alberts (1937-);Īpašums un nodokļi;575;mācību
+Buholca Elke Linda;Pablo Pikaso;96;biogrāfija
+Tolstojs Aleksejs (1883-1945);Pēteris Pirmais;745;vēsturisks romāns
+Godārs Roberts;Spēle līdz galam;396;kriminālromāns
+Mari Silvana;Pēdējais elfs;316;pasakas
+Nonhofa Nikola;Pols Sezans;96;biogrāfija
+Patersons Džeimss;Pludmales nams;203;romāns
+Raits Maikls;Digitālā fotogrāfija;239;rokasgrāmata
+Stīla Daniela;Māja;411;romāns
+Gutersons Deivids;Meža Dievmāte;364;romāns
